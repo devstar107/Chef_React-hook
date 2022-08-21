@@ -25,17 +25,6 @@
 ### Add Recipe
 ![](https://raw.githubusercontent.com/Marshall3c03/CapstoneMealPlanner/main/demo/AddRecipe.png)
 
-### Recipe Page
-![](https://raw.githubusercontent.com/Marshall3c03/CapstoneMealPlanner/main/demo/Recipepage.png)
-
-### Recipe Book
-![](https://raw.githubusercontent.com/Marshall3c03/CapstoneMealPlanner/main/demo/RecipeBook.png)
-
-### Planner
-![](https://raw.githubusercontent.com/Marshall3c03/CapstoneMealPlanner/main/demo/Planner.png)
-
-### Shopping List
-![](https://raw.githubusercontent.com/Marshall3c03/CapstoneMealPlanner/main/demo/ShoppingList.png)
 
 
 ## How to Run
@@ -73,11 +62,3 @@ Then seed the database and run the server:
 - [React]
 - [MongoDB]
 - [Express]
-
-
-## Team
-
-### [Anita Safar](https://github.com/AnitaSafar) 
-### [Craig Marshall](https://github.com/Marshall3c03)
-### [Ina Kurlovich](https://github.com/innessa89)
-### [Ross Napier](https://github.com/RossNapier)
